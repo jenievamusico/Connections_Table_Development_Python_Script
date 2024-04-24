@@ -1,1 +1,1 @@
-# Connections_Table_Development_Python_Script
+# This script creates a table of information regarding train connections based on input train activity information
